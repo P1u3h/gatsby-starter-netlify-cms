@@ -8,7 +8,7 @@ mainpitch:
   title: This entire page is NOTHING.
   description: |
     Don't bother reading these words, you're just wasting your time.
-description: It will do you no good... everything here is useless.
+description: It will do you no good... everything here is white. I warned you...
 intro:
   blurbs:
     - text: "                                                                                                                                                                         \

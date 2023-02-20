@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: This is blank.
-image: /img/blank-wallpaper-hd.jpg
+image: /img/white1.jpg
 heading: DON'T SCROLL DOWN
 subheading: except this red highlighting...
 mainpitch:
